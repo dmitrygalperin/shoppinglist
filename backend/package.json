@@ -1,0 +1,10 @@
+{
+  "name": "ShoppingListBackend",
+  "version": "1.0.0",
+  "description": "Backend for shopping list app",
+  "main": "app.js",
+  "repository": "https://github.com/dmitrygalperin/shoppinglist.git",
+  "author": "Dmitry Galperin",
+  "license": "MIT",
+  "private": false
+}
